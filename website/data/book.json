@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "An obsessive trip planner with a 47-page color-coded itinerary suffers a massive heart attack at age 31 when a cancelled train derails her perfectly scheduled life.",
     "long": ""
   },
   "death_type": "Planning Stress",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She planned everything except this."
 }
